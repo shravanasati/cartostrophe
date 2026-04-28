@@ -25,6 +25,7 @@ def build_product_text(product: dict) -> str:
         product.get("description_en"),
         product.get("name_ar"),
         product.get("description_ar"),
+        ",".join(product.get("attributes", []))
     ]
     return " ".join(part for part in parts if part)
 

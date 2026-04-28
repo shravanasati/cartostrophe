@@ -10,6 +10,7 @@ QDRANT_URL = f"http://{QDRANT_HOST}:{QDRANT_PORT}"
 QDRANT_COLLECTION = "products"
 
 logger = logging.getLogger("cartostrophe")
+_CLIENT: QdrantClient | None = None
 
 
 def create_client() -> QdrantClient:
@@ -22,6 +23,13 @@ def create_client() -> QdrantClient:
         raise RuntimeError("Failed to connect to Qdrant") from exc
     logger.info("Qdrant connection ok")
     return client
+
+
+def get_client() -> QdrantClient:
+    global _CLIENT
+    if _CLIENT is None:
+        _CLIENT = create_client()
+    return _CLIENT
 
 
 def ensure_collection(client: QdrantClient, vector_size: int) -> None:
