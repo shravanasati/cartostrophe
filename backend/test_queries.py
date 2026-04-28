@@ -23,13 +23,13 @@ QUERIES = [
 
     # "diapers under 150 AED for newborn organic",
     # "stroller under 300 AED lightweight foldable",
-    "toys for 1 year old safe non toxic under 100",
+    # "toys for 1 year old safe non toxic under 100",
 
-    "something good for baby",
-    "best product for kids",
-    "what should I buy",
+    # "something good for baby",
+    # "best product for kids",
+    # "what should I buy",
 
-    "premium high quality diapers under 50 AED",
+    # "premium high quality diapers under 50 AED",
     "organic luxury gift but very cheap",
     "best stroller lightweight but also very heavy duty rugged",
 

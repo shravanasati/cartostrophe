@@ -9,7 +9,7 @@ from pydantic import BaseModel, Field
 from qdrant_client.models import FieldCondition, Filter, MatchValue, Range, MinShould
 
 from embeddings import get_encoder
-from nlu_engine import GROQ_BASE_URL, GROQ_MODEL_NAME, NLUEngine, ProductFilter
+from nlu_engine import GROQ_BASE_URL, NLUEngine, ProductFilter
 from qdrant_store import QDRANT_COLLECTION, get_client
 
 logger = logging.getLogger("cartostrophe")
@@ -27,11 +27,29 @@ class SelectionResult(BaseModel):
     )
 
 
+class SelectionResultIndices(BaseModel):
+    indices: list[int] = Field(
+        default_factory=list,
+        description="Selected candidate indices (0-based)",
+    )
+    reasoning_en: str = Field(
+        default="",
+        description="Concise explanation for why these products match the query",
+    )
+    reasoning_ar: str = Field(
+        default="",
+        description="Concise explanation for why these products match the query, in Arabic",
+    )
+
+
+SELECTOR_MODEL = "llama-3.3-70b-versatile"
+
+
 SYSTEM_PROMPT = """You select the most relevant products for a user query.
 Use only the provided candidates.
-Return up to 10 product ids in order of relevance.
+Return up to 5 candidate indices (0-based) in order of relevance.
 If none of the candidates match the query, return an empty list.
-Ensure that the returned product IDs are a subset of the eligible_ids.
+Ensure that the returned indices are a subset of the eligible_indices.
 Provide a concise, crisp reasoning summary (2-4 sentences) in English and Arabic.
 """
 
@@ -45,7 +63,7 @@ def _get_api_key() -> str:
 
 def _create_selector() -> Any:
     model = ChatOpenAI(
-        model=GROQ_MODEL_NAME,
+        model=SELECTOR_MODEL,
         base_url=GROQ_BASE_URL,
         api_key=_get_api_key(),
         temperature=0,
@@ -53,7 +71,7 @@ def _create_selector() -> Any:
     return create_agent(
         model=model,
         tools=[],
-        response_format=SelectionResult,
+        response_format=SelectionResultIndices,
         system_prompt=SYSTEM_PROMPT,
     )
 
@@ -191,19 +209,42 @@ def select_products(prompt: str, limit: int = 20) -> SelectionResult:
         )
 
     selector = _create_selector()
-    candidate_ids = {candidate.get("id") for candidate in candidates}
+    candidate_ids = [candidate.get("id") for candidate in candidates]
+    eligible_indices = [index for index, item_id in enumerate(candidate_ids) if item_id is not None]
     payload = {
         "query": prompt,
         "filters": filters.model_dump(mode="json", exclude_none=True),
         "candidates": [_summarize_product(candidate) for candidate in candidates],
-        "eligible_ids": list(candidate_ids)
+        "eligible_indices": eligible_indices,
+        # "index_to_id": [
+        #     {"index": index, "id": item_id}
+        #     for index, item_id in enumerate(candidate_ids)
+        #     if item_id is not None
+        # ],
     }
     result: dict[str, Any] = selector.invoke(
         {"messages": [{"role": "user", "content": json.dumps(payload)}]}
     )
-    selection: SelectionResult = result["structured_response"]
-    print(candidate_ids, selection.ids)
-    selection.ids = [item_id for item_id in selection.ids if item_id in candidate_ids]
+    selection: SelectionResultIndices = result["structured_response"]
+    print(candidate_ids, selection.indices)
+
+    normalized_indices: list[int] = []
+    for index in selection.indices:
+        if isinstance(index, int):
+            normalized_indices.append(index)
+        elif isinstance(index, str) and index.isdigit():
+            normalized_indices.append(int(index))
+
+    normalized_indices = [
+        index for index in normalized_indices if index in eligible_indices
+    ]
+    ids = [candidate_ids[index] for index in normalized_indices]
+    selection = SelectionResult(
+        ids=ids,
+        reasoning_en=selection.reasoning_en,
+        reasoning_ar=selection.reasoning_ar,
+    )
+
     if not selection.ids and not selection.reasoning_en:
         selection.reasoning_en = (
             "No matching products found with the current filters. "
