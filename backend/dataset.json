@@ -1,1143 +1,1143 @@
 [
-	{
-		"id": "d-001",
-		"name_en": "Huggies Extra Care Diapers Size 1",
-		"name_ar": "حفاضات هجيز عناية إضافية مقاس 1",
-		"category": "diapers",
-		"price": 45.0,
-		"currency": "AED",
-		"age_range": "0-3 months",
-		"attributes": [
-			"rash-free",
-			"cotton-soft",
-			"budget",
-			"high-absorbency"
-		],
-		"description_en": "Softest touch for your newborn's delicate skin. Very popular among moms for its leak protection.",
-		"description_ar": "لمسة فائقة النعومة لبشرة مولودك الجديد الحساسة. خيار مفضل للأمهات بفضل حمايته الممتازة من التسريب.",
-		"rating": 4.8,
-		"review_count": 320
-	},
-	{
-		"id": "d-002",
-		"name_en": "Pampers Premium Care Size 2",
-		"name_ar": "بامبرز عناية مميزة مقاس 2",
-		"category": "diapers",
-		"price": 85.0,
-		"currency": "AED",
-		"age_range": "3-6 months",
-		"attributes": [
-			"premium",
-			"ultra-dry",
-			"leak-proof",
-			"breathable"
-		],
-		"description_en": "Keep your baby dry for up to 12 hours. Best for overnight use though a bit pricey.",
-		"description_ar": "يحافظ على جفاف طفلك لمدة تصل إلى 12 ساعة. مثالي للاستخدام الليلي رغم سعره المرتفع قليلاً.",
-		"rating": 4.9,
-		"review_count": 450
-	},
-	{
-		"id": "d-003",
-		"name_en": "Fine Baby Diapers Economy Pack",
-		"name_ar": "حفاضات فاين بيبي العبوة الاقتصادية",
-		"category": "diapers",
-		"price": 55.0,
-		"currency": "AED",
-		"age_range": "6-12 months",
-		"attributes": [
-			"budget",
-			"chameleon-stretch",
-			"rash-free",
-			"daily-use"
-		],
-		"description_en": "Great value for money for everyday use. A thin design that moves with your baby.",
-		"description_ar": "قيمة ممتازة مقابل السعر للاستخدام اليومي. تصميم مرن يتحرك مع طفلك بسهولة.",
-		"rating": 4.2,
-		"review_count": 150
-	},
-	{
-		"id": "d-004",
-		"name_en": "Eco by Naty Sustainable Diapers",
-		"name_ar": "حفاضات ناتي الصديقة للبيئة",
-		"category": "diapers",
-		"price": 120.0,
-		"currency": "AED",
-		"age_range": "0-6 months",
-		"attributes": [
-			"eco-friendly",
-			"organic",
-			"premium",
-			"hypoallergenic"
-		],
-		"description_en": "Plant-based diapers that are good for the planet and baby. Moms love the natural feel.",
-		"description_ar": "حفاضات نباتية المصدر، صديقة للبيئة ولطفلك. تعشق الأمهات ملمسها الطبيعي اللطيف.",
-		"rating": 4.5,
-		"review_count": 89
-	},
-	{
-		"id": "d-005",
-		"name_en": "BabyJoy Culotte Pants Size 4",
-		"name_ar": "كلوت بيبي جوي مقاس 4",
-		"category": "diapers",
-		"price": 95.0,
-		"currency": "AED",
-		"age_range": "9-14 months",
-		"attributes": [
-			"easy-change",
-			"stretchable",
-			"active-baby",
-			"leak-barrier"
-		],
-		"description_en": "Perfect for active babies who won't sit still for a change. Fits like underwear.",
-		"description_ar": "مثالية للأطفال النشيطين الذين يجدون صعوبة في الجلوس أثناء التغيير. مريحة مثل الملابس الداخلية.",
-		"rating": 4.7,
-		"review_count": 210
-	},
-	{
-		"id": "d-006",
-		"name_en": "Pampers Baby-Dry Pants Size 5",
-		"name_ar": "بامبرز بيبي دراي كلوت مقاس 5",
-		"category": "diapers",
-		"price": 105.0,
-		"currency": "AED",
-		"age_range": "12-18 months",
-		"attributes": [
-			"quick-dry",
-			"comfortable",
-			"flexible-fit",
-			"overnight"
-		],
-		"description_en": "Easy on and easy off for toddlers on the go. Keeps them dry through the night.",
-		"description_ar": "سهلة الارتداء والخلع للصغار دائمي الحركة. تضمن بقاءهم جافين طوال الليل.",
-		"rating": 4.4,
-		"review_count": 185
-	},
-	{
-		"id": "d-007",
-		"name_en": "Molfix Baby Diapers Midi",
-		"name_ar": "حفاضات مولفيكس ميدي",
-		"category": "diapers",
-		"price": 40.0,
-		"currency": "AED",
-		"age_range": "4-9kg",
-		"attributes": [
-			"umbilical-cord-cut",
-			"budget",
-			"soft-loops",
-			"breathable-backsheet"
-		],
-		"description_en": "Basic diapers with extra absorbency. Good choice for budget-conscious parents.",
-		"description_ar": "حفاضات أساسية بامتصاص إضافي. خيار جيد للآباء الباحثين عن التوفير.",
-		"rating": 3.8,
-		"review_count": 65
-	},
-	{
-		"id": "d-008",
-		"name_en": "Huggies Little Swimmers Size 2-3",
-		"name_ar": "هجيز ليتل سويمرز مقاس 2-3",
-		"category": "diapers",
-		"price": 35.0,
-		"currency": "AED",
-		"age_range": "3-9 months",
-		"attributes": [
-			"swim-ready",
-			"disposable",
-			"fun-patterns",
-			"non-swelling"
-		],
-		"description_en": "Don't swell in water like regular diapers. Essential for pool time and seaside fun.",
-		"description_ar": "لا تنتفخ في الماء مثل الحفاضات العادية. ضرورية لوقت المسبح والمرح على الشاطئ.",
-		"rating": 4.6,
-		"review_count": 120
-	},
-	{
-		"id": "d-009",
-		"name_en": "Pureborn Organic Bamboo Diapers",
-		"name_ar": "حفاضات بيور بورن من خشب البامبو العضوي",
-		"category": "diapers",
-		"price": 140.0,
-		"currency": "AED",
-		"age_range": "1-2 years",
-		"attributes": [
-			"organic",
-			"hypoallergenic",
-			"premium",
-			"chemical-free"
-		],
-		"description_en": "Made from sustainable bamboo fibers for sensitive skin. A bit of a luxury but worth it for the planet.",
-		"description_ar": "مصنوعة من ألياف البامبو المستدامة للبشرة الحساسة. تعتبر رفاهية لكنها تستحق لأجل الكوكب.",
-		"rating": 4.8,
-		"review_count": 55
-	},
-	{
-		"id": "d-010",
-		"name_en": "Bambo Nature Premium Diapers",
-		"name_ar": "حفاضات بامبو نايتشر المميزة",
-		"category": "diapers",
-		"price": 115.0,
-		"currency": "AED",
-		"age_range": "2-3 years",
-		"attributes": [
-			"eco-friendly",
-			"breathable",
-			"dermatologically-tested",
-			"premium"
-		],
-		"description_en": "Eco-friendly option with a high-performance core. Reduced risk of diaper rash and allergies.",
-		"description_ar": "خيار صديق للبيئة مع قلب عالي الأداء. يقلل من مخاطر طفح الحفاض والحساسية.",
-		"rating": 4.3,
-		"review_count": 42
-	},
-	{
-		"id": "f-001",
-		"name_en": "Philips Avent Natural Baby Bottle 260ml",
-		"name_ar": "رضاعة فيليبس أفينت ناتشورال 260 مل",
-		"category": "feeding",
-		"price": 65.0,
-		"currency": "AED",
-		"age_range": "1 month+",
-		"attributes": [
-			"BPA-free",
-			"anti-colic",
-			"natural-latch",
-			"dishwasher-safe"
-		],
-		"description_en": "The breast-like shape makes it easy to combine breast and bottle feeding. Loved by many new dads.",
-		"description_ar": "تصميم يحاكي شكل الثدي يسهل الجمع بين الرضاعة الطبيعية والصناعية. يفضلها الكثير من الآباء الجدد.",
-		"rating": 4.9,
-		"review_count": 480
-	},
-	{
-		"id": "f-002",
-		"name_en": "Tommee Tippee Closer to Nature Bottle",
-		"name_ar": "رضاعة تومي تيبي الأقرب للطبيعة",
-		"category": "feeding",
-		"price": 50.0,
-		"currency": "AED",
-		"age_range": "0 months+",
-		"attributes": [
-			"BPA-free",
-			"soft-silicone",
-			"anti-colic-valve",
-			"budget"
-		],
-		"description_en": "Mimics the natural flex and movement of mom's breast. Affordable and reliable for daily use.",
-		"description_ar": "تحاكي المرونة والحركة الطبيعية لثدي الأم. موثوقة واقتصادية للاستخدام اليومي.",
-		"rating": 4.6,
-		"review_count": 350
-	},
-	{
-		"id": "f-003",
-		"name_en": "Dr. Brown's Options+ Wide-Neck Bottle",
-		"name_ar": "رضاعة دكتور براونز أوبشنز بلس بفتحة واسعة",
-		"category": "feeding",
-		"price": 75.0,
-		"currency": "AED",
-		"age_range": "0-6 months",
-		"attributes": [
-			"anti-colic",
-			"vent-system",
-			"premium",
-			"clinically-proven"
-		],
-		"description_en": "Internal vent system reduces gas and spit-up. Great for fussy babies with tummy issues.",
-		"description_ar": "نظام تهوية داخلي يقلل من الغازات والارتجاع. رائعة للأطفال الذين يعانون من مشاكل البطن.",
-		"rating": 4.7,
-		"review_count": 410
-	},
-	{
-		"id": "f-004",
-		"name_en": "Medela Swing Maxi Double Electric Pump",
-		"name_ar": "مضخة ميديلا سوينج ماكسي الكهربائية المزدوجة",
-		"category": "feeding",
-		"price": 490.0,
-		"currency": "AED",
-		"age_range": "Mothers",
-		"attributes": [
-			"portable",
-			"double-pump",
-			"USB-rechargeable",
-			"premium"
-		],
-		"description_en": "Compact and easy to use for busy moms who need to express quickly. High price tag but saves so much time.",
-		"description_ar": "مدمجة وسهلة الاستخدام للأمهات المشغولات اللواتي يحتجن لشفط الحليب بسرعة. سعرها مرتفع لكنها توفر الكثير من الوقت.",
-		"rating": 4.8,
-		"review_count": 120
-	},
-	{
-		"id": "f-005",
-		"name_en": "Beaba Babycook Solo Food Maker",
-		"name_ar": "محضر طعام بيابا بيبي كوك سولو",
-		"category": "feeding",
-		"price": 450.0,
-		"currency": "AED",
-		"age_range": "6 months+",
-		"attributes": [
-			"4-in-1",
-			"steamer",
-			"blender",
-			"compact",
-			"premium"
-		],
-		"description_en": "Steam, blend, defrost, and reheat in one machine. Makes home cooking for baby super easy.",
-		"description_ar": "يطهو بالبخار، يخلط، يذيب التجميد، ويسخن في جهاز واحد. يجعل تحضير الوجبات المنزلية لطفلك في غاية السهولة.",
-		"rating": 4.7,
-		"review_count": 150
-	},
-	{
-		"id": "f-006",
-		"name_en": "Munchkin Miracle 360 Trainer Cup",
-		"name_ar": "كوب التدريب من منشكين ميركل 360",
-		"category": "feeding",
-		"price": 45.0,
-		"currency": "AED",
-		"age_range": "6 months+",
-		"attributes": [
-			"spill-proof",
-			"easy-clean",
-			"dentist-recommended",
-			"budget"
-		],
-		"description_en": "Drinks from anywhere around the rim without spilling. A lifesaver for toddlers learning to drink properly.",
-		"description_ar": "يمكن الشرب من أي مكان حول الحافة دون انسكاب. منقذ للصغار الذين يتعلمون الشرب بشكل صحيح.",
-		"rating": 4.9,
-		"review_count": 500
-	},
-	{
-		"id": "f-007",
-		"name_en": "Lansinoh Breastmilk Storage Bags 50pcs",
-		"name_ar": "أكياس تخزين حليب الأم من لانسينوه 50 قطعة",
-		"category": "feeding",
-		"price": 42.0,
-		"currency": "AED",
-		"age_range": "Mothers",
-		"attributes": [
-			"pre-sterilized",
-			"leak-proof",
-			"BPA-free",
-			"essential"
-		],
-		"description_en": "Super strong bags for freezing breast milk. They stand upright or lay flat for storage.",
-		"description_ar": "أكياس قوية جداً لتجميد حليب الأم. يمكن وضعها عمودياً أو أفقياً لسهولة التخزين.",
-		"rating": 4.6,
-		"review_count": 280
-	},
-	{
-		"id": "f-008",
-		"name_en": "Nuby Garden Fresh Silicone Squeezer",
-		"name_ar": "عصارة سيليكون نوبي جاردن فريش",
-		"category": "feeding",
-		"price": 28.0,
-		"currency": "AED",
-		"age_range": "4 months+",
-		"attributes": [
-			"mesh-feeder",
-			"self-feeding",
-			"soft-silicone",
-			"budget"
-		],
-		"description_en": "Let your little one explore fresh fruit without the risk of choking. Very handy during weaning.",
-		"description_ar": "اسمح لصغيرك باستكشاف الفواكه الطازجة دون خطر الاختناق. مفيد جداً أثناء مرحلة الفطام.",
-		"rating": 4.3,
-		"review_count": 95
-	},
-	{
-		"id": "f-009",
-		"name_en": "Chicco Polly Progress Highchair",
-		"name_ar": "كرسي الطعام شيكو بولي بروجرس",
-		"category": "feeding",
-		"price": 480.0,
-		"currency": "AED",
-		"age_range": "0-3 years",
-		"attributes": [
-			"convertible",
-			"adjustable-height",
-			"foldable",
-			"premium"
-		],
-		"description_en": "Grows with your baby from a recliner to a toddler booster seat. Sturdy and easy to wipe clean.",
-		"description_ar": "ينمو مع طفلك من وضعية الاستلقاء إلى مقعد مرتفع للصغار. متين وسهل التنظيف بمسحة واحدة.",
-		"rating": 4.5,
-		"review_count": 60
-	},
-	{
-		"id": "f-010",
-		"name_en": "Pigeon Liquid Cleanser for Bottles",
-		"name_ar": "منظف سائل بيجين للرضاعات",
-		"category": "feeding",
-		"price": 38.0,
-		"currency": "AED",
-		"age_range": "Family",
-		"attributes": [
-			"natural-ingredients",
-			"fruit-veggie-safe",
-			"food-grade",
-			"mild"
-		],
-		"description_en": "Safe and effective for cleaning bottles and even washing fruits. Doesn't leave a nasty soap smell.",
-		"description_ar": "آمن وفعال لتنظيف الرضاعات وحتى غسل الفواكه. لا يترك رائحة صابون مزعجة.",
-		"rating": 4.8,
-		"review_count": 215
-	},
-	{
-		"id": "t-001",
-		"name_en": "Fisher-Price Baby's First Blocks",
-		"name_ar": "مكعبات الطفل الأولى من فيشر برايس",
-		"category": "toys",
-		"price": 45.0,
-		"currency": "AED",
-		"age_range": "6-18 months",
-		"attributes": [
-			"educational",
-			"color-recognition",
-			"sorting-toy",
-			"budget"
-		],
-		"description_en": "Classic shape sorter that keeps babies busy for ages. Durable enough to survive many drops.",
-		"description_ar": "لعبة كلاسيكية لفرز الأشكال تبقي الأطفال مشغولين لفترات طويلة. متينة بما يكفي لتتحمل السقوط المتكرر.",
-		"rating": 4.9,
-		"review_count": 380
-	},
-	{
-		"id": "t-002",
-		"name_en": "VTech Sit-to-Stand Learning Walker",
-		"name_ar": "مشاية التعلم من في تيك",
-		"category": "toys",
-		"price": 195.0,
-		"currency": "AED",
-		"age_range": "9-36 months",
-		"attributes": [
-			"interactive",
-			"musical",
-			"motor-skills",
-			"best-seller"
-		],
-		"description_en": "Has a removable activity panel and fun animal sounds. Helps them take those first wobbly steps.",
-		"description_ar": "تتميز بلوحة أنشطة قابلة للإزالة وأصوات حيوانات ممتعة. تساعدهم على اتخاذ خطواتهم الأولى المتعثرة.",
-		"rating": 4.8,
-		"review_count": 420
-	},
-	{
-		"id": "t-003",
-		"name_en": "LEGO DUPLO Classic Heart Box",
-		"name_ar": "صندوق اﻟﻘﻠﺐ ﻟﻴﺠﻮ دوبلو",
-		"category": "toys",
-		"price": 85.0,
-		"currency": "AED",
-		"age_range": "1.5-3 years",
-		"attributes": [
-			"creative",
-			"safe-size",
-			"building-blocks",
-			"premium"
-		],
-		"description_en": "Perfect introduction to building for tiny hands. Great for focus and imagination.",
-		"description_ar": "بداية مثالية لعالم البناء للأيدي الصغيرة. رائعة لتنمية التركيز والخيال.",
-		"rating": 4.9,
-		"review_count": 210
-	},
-	{
-		"id": "t-004",
-		"name_en": "Sophie la Girafe Soothing Teether",
-		"name_ar": "عضاضة الزرافة صوفي المهدئة",
-		"category": "toys",
-		"price": 110.0,
-		"currency": "AED",
-		"age_range": "3 months+",
-		"attributes": [
-			"natural-rubber",
-			"teething",
-			"hand-painted",
-			"premium"
-		],
-		"description_en": "Iconic teething toy made from 100% natural rubber. Expensive but babies just love chewing on it.",
-		"description_ar": "لعبة عض شهيرة مصنوعة من المطاط الطبيعي 100%. غالية الثمن لكن الأطفال يحبون مضغها جداً.",
-		"rating": 4.7,
-		"review_count": 315
-	},
-	{
-		"id": "t-005",
-		"name_en": "Tiny Love Gymini Dynamic Activity Mat",
-		"name_ar": "بساط الأنشطة تايني لوف جيميناي",
-		"category": "toys",
-		"price": 320.0,
-		"currency": "AED",
-		"age_range": "0-12 months",
-		"attributes": [
-			"sensory-play",
-			"tummy-time",
-			"washable",
-			"premium"
-		],
-		"description_en": "Engaging baby gym with adjustable arches and lights. Keeps them entertained during tummy time.",
-		"description_ar": "صالة ألعاب ممتعة للأطفال مع أقواس قابلة للتعديل وأضواء. تبقيهم مستمتعين أثناء وقت الاستلقاء على البطن.",
-		"rating": 4.6,
-		"review_count": 92
-	},
-	{
-		"id": "t-006",
-		"name_en": "Skip Hop Bandana Buddies Activity Toy",
-		"name_ar": "لعبة الأنشطة سكيب هوب باندانا باديز",
-		"category": "toys",
-		"price": 65.0,
-		"currency": "AED",
-		"age_range": "0-12 months",
-		"attributes": [
-			"multi-sensory",
-			"stroller-toy",
-			"teether-included",
-			"soft"
-		],
-		"description_en": "Cute animal friend with rattles and textures to explore. Attaches easily to strollers or bags.",
-		"description_ar": "صديق لطيف من الحيوانات مع خشخيشات وأنسجة متنوعة للاستكشاف. يسهل تثبيته على العربات أو الحقائب.",
-		"rating": 4.4,
-		"review_count": 140
-	},
-	{
-		"id": "t-007",
-		"name_en": "Stacking Cups Rainbow Set",
-		"name_ar": "مجموعة أكواب التراص الملونة",
-		"category": "toys",
-		"price": 25.0,
-		"currency": "AED",
-		"age_range": "6-24 months",
-		"attributes": [
-			"budget",
-			"bath-toy",
-			"stacking",
-			"classic"
-		],
-		"description_en": "Simple but endless fun in the bath or sandbox. Great cheap pick for any nursery.",
-		"description_ar": "بسيطة ولكنها توفر مرحاً لا ينتهي في الحمام أو في الرمل. خيار رخيص وممتاز لأي غرفة أطفال.",
-		"rating": 4.8,
-		"review_count": 275
-	},
-	{
-		"id": "t-008",
-		"name_en": "Little Tikes Cozy Coupe Ride-On",
-		"name_ar": "سيارة ليتل تايكس كوزي كوبيه",
-		"category": "toys",
-		"price": 380.0,
-		"currency": "AED",
-		"age_range": "1.5-5 years",
-		"attributes": [
-			"outdoor-toy",
-			"active-play",
-			"sturdy",
-			"classic"
-		],
-		"description_en": "The famous red and yellow car for garden adventures. Takes a bit of time to assemble but lasts forever.",
-		"description_ar": "السيارة الحمراء والصفراء الشهيرة لمغامرات الحديقة. يستغرق تجميعها بعض الوقت لكنها تدوم للأبد.",
-		"rating": 4.7,
-		"review_count": 180
-	},
-	{
-		"id": "t-009",
-		"name_en": "Melissa & Doug Wooden Building Blocks",
-		"name_ar": "مكعبات بناء خشبية من ميليسا آند دوغ",
-		"category": "toys",
-		"price": 145.0,
-		"currency": "AED",
-		"age_range": "2-4 years",
-		"attributes": [
-			"wooden",
-			"open-ended-play",
-			"durable",
-			"premium"
-		],
-		"description_en": "High quality solid wood blocks for building towers. Good for kids who like to create things.",
-		"description_ar": "مكعبات خشبية صلبة عالية الجودة لبناء الأبراج. ممتازة للأطفال الذين يحبون الابتكار.",
-		"rating": 4.5,
-		"review_count": 55
-	},
-	{
-		"id": "t-010",
-		"name_en": "Soft Plush Elephant Sleep Aid",
-		"name_ar": "فيل قماشي ناعم للمساعدة على النوم",
-		"category": "toys",
-		"price": 55.0,
-		"currency": "AED",
-		"age_range": "0-36 months",
-		"attributes": [
-			"soft-plush",
-			"cuddle-toy",
-			"bedtime",
-			"budget"
-		],
-		"description_en": "Super soft companion for bedtime cuddles. Simple design without batteries or noise.",
-		"description_ar": "رفيق فائق النعومة للعناق وقت النوم. تصميم بسيط بدون بطاريات أو ضجيج.",
-		"rating": 4.2,
-		"review_count": 115
-	},
-	{
-		"id": "s-001",
-		"name_en": "Johnson's Baby Bath 500ml",
-		"name_ar": "سائل استحمام جونسون للأطفال 500 مل",
-		"category": "skincare",
-		"price": 28.0,
-		"currency": "AED",
-		"age_range": "0 months+",
-		"attributes": [
-			"no-more-tears",
-			"mild",
-			"budget",
-			"iconic"
-		],
-		"description_en": "Gentle formula that doesn't sting the eyes. Smells like a clean baby should.",
-		"description_ar": "تركيبة لطيفة لا تسبب الدموع في العينين. رائحته تذكرنا دائماً بالنظافة والانتعاش.",
-		"rating": 4.5,
-		"review_count": 480
-	},
-	{
-		"id": "s-002",
-		"name_en": "Mustela Stelatopia Emollient Cream",
-		"name_ar": "كريم موستيلا ستيلاتوبيا المرطب",
-		"category": "skincare",
-		"price": 115.0,
-		"currency": "AED",
-		"age_range": "0 months+",
-		"attributes": [
-			"eczema-prone",
-			"fragrance-free",
-			"dermatologist-tested",
-			"premium"
-		],
-		"description_en": "Specialized cream for very dry or itchy skin. Really helps calm down those red patches.",
-		"description_ar": "كريم متخصص للبشرة الجافة جداً أو المتهيجة. يساعد حقاً في تهدئة البقع الحمراء.",
-		"rating": 4.8,
-		"review_count": 145
-	},
-	{
-		"id": "s-003",
-		"name_en": "Sebamed Baby Wash Extra Soft",
-		"name_ar": "غسول سيباميد للأطفال فائق النعومة",
-		"category": "skincare",
-		"price": 42.0,
-		"currency": "AED",
-		"age_range": "0 months+",
-		"attributes": [
-			"pH-balanced",
-			"soap-free",
-			"sensitive-skin",
-			"daily-use"
-		],
-		"description_en": "Supports the development of the acid mantle. Good middle-ground price for daily bathing.",
-		"description_ar": "يدعم تطور الطبقة الحمضية الواقية للبشرة. سعر مناسب للاستخدام اليومي في الاستحمام.",
-		"rating": 4.6,
-		"review_count": 230
-	},
-	{
-		"id": "s-004",
-		"name_en": "Sudocrem Healing Cream 125g",
-		"name_ar": "كريم سودوكريم المعالج 125 جم",
-		"category": "skincare",
-		"price": 35.0,
-		"currency": "AED",
-		"age_range": "Family",
-		"attributes": [
-			"rash-treatment",
-			"barrier-cream",
-			"reliable",
-			"budget"
-		],
-		"description_en": "The classic fix for diaper rash and minor scrapes. Every mom has one of these in her bag.",
-		"description_ar": "الحل الكلاسيكي لطفح الحفاض والخدوش البسيطة. لا تخلو حقيبة أي أم من هذا الكريم.",
-		"rating": 4.9,
-		"review_count": 500
-	},
-	{
-		"id": "s-005",
-		"name_en": "Aveeno Baby Daily Moisture Lotion",
-		"name_ar": "لوشن أفينو المرطب اليومي للأطفال",
-		"category": "skincare",
-		"price": 55.0,
-		"currency": "AED",
-		"age_range": "0-3 years",
-		"attributes": [
-			"natural-oats",
-			"non-greasy",
-			"paraben-free",
-			"gentle"
-		],
-		"description_en": "Lightweight lotion that absorbs quickly and keeps skin smooth. Smells subtle and natural.",
-		"description_ar": "لوشن خفيف الوزن يمتص بسرعة ويحافظ على نعومة البشرة. رائحته هادئة وطبيعية.",
-		"rating": 4.7,
-		"review_count": 310
-	},
-	{
-		"id": "s-006",
-		"name_en": "Bioderma ABC Derm Foaming Cleanser",
-		"name_ar": "جل منظف بيوديرما ABC Derm",
-		"category": "skincare",
-		"price": 85.0,
-		"currency": "AED",
-		"age_range": "0 months+",
-		"attributes": [
-			"tear-free",
-			"soap-free",
-			"high-tolerance",
-			"premium"
-		],
-		"description_en": "High quality face and body wash for newborns. Doesn't dry out the skin at all.",
-		"description_ar": "منظف عالي الجودة للوجه والجسم للمواليد الجدد. لا يسبب جفاف البشرة بتاتاً.",
-		"rating": 4.4,
-		"review_count": 65
-	},
-	{
-		"id": "s-007",
-		"name_en": "Organic Coconut Baby Oil",
-		"name_ar": "زيت جوز الهند العضوي للأطفال",
-		"category": "skincare",
-		"price": 60.0,
-		"currency": "AED",
-		"age_range": "All ages",
-		"attributes": [
-			"100%-pure",
-			"organic",
-			"multi-purpose",
-			"eco-friendly"
-		],
-		"description_en": "Good for baby massage, cradle cap, or dry elbows. No chemicals, just pure goodness.",
-		"description_ar": "رائع لمساج الطفل، قشرة الرأس، أو الأكواع الجافة. خالي من الكيماويات، طبيعي تماماً.",
-		"rating": 4.3,
-		"review_count": 88
-	},
-	{
-		"id": "s-008",
-		"name_en": "Cetaphil Baby Gentle Wash & Shampoo",
-		"name_ar": "غسول وشامبو سيتافيل اللطيف للأطفال",
-		"category": "skincare",
-		"price": 48.0,
-		"currency": "AED",
-		"age_range": "0 months+",
-		"attributes": [
-			"glycerin-enriched",
-			"hypoallergenic",
-			"all-in-one",
-			"budget"
-		],
-		"description_en": "Convenient pump bottle for the shower. Gentle enough for hair and body in one go.",
-		"description_ar": "عبوة مريحة بمضخة للاستخدام في الحمام. لطيف بما يكفي للشعر والجسم معاً.",
-		"rating": 4.6,
-		"review_count": 190
-	},
-	{
-		"id": "s-009",
-		"name_en": "Chicco Nappy Rash Cream 100ml",
-		"name_ar": "كريم شيكو لطفح الحفاض 100 مل",
-		"category": "skincare",
-		"price": 22.0,
-		"currency": "AED",
-		"age_range": "0-2 years",
-		"attributes": [
-			"zinc-oxide",
-			"soothing",
-			"cheap",
-			"everyday"
-		],
-		"description_en": "An affordable zinc-based barrier cream. Not as thick as Sudocrem but works fine.",
-		"description_ar": "كريم واقي ميسور التكلفة يعتمد على الزنك. ليس بكثافة سودوكريم لكنه يؤدي المهمة.",
-		"rating": 3.9,
-		"review_count": 45
-	},
-	{
-		"id": "s-010",
-		"name_en": "Weleda Baby Calendula Body Cream",
-		"name_ar": "كريم الجسم ويليدا بكاليندولا",
-		"category": "skincare",
-		"price": 72.0,
-		"currency": "AED",
-		"age_range": "0-12 months",
-		"attributes": [
-			"organic",
-			"calendula-extract",
-			"natural-scent",
-			"premium"
-		],
-		"description_en": "Rich cream with organic Calendula to protect delicate skin. Very popular in Europe.",
-		"description_ar": "كريم غني بخلاصة الكاليندولا العضوية لحماية البشرة الحساسة. يحظى بشعبية كبيرة في أوروبا.",
-		"rating": 4.7,
-		"review_count": 76
-	},
-	{
-		"id": "g-001",
-		"name_en": "Babyzen YOYO2 6+ Stroller Black",
-		"name_ar": "عربة أطفال بيبي زين يويو 2 الأسود",
-		"category": "gear",
-		"price": 499.0,
-		"currency": "AED",
-		"age_range": "6 months-4 years",
-		"attributes": [
-			"travel-friendly",
-			"cabin-size",
-			"lightweight",
-			"premium"
-		],
-		"description_en": "The ultimate travel stroller that fits in airplane overhead bins. Easy to fold with one hand.",
-		"description_ar": "أفضل عربة للسفر تناسب مقصورة الطائرة. سهلة الطي بيد واحدة ومريحة للغاية.",
-		"rating": 5.0,
-		"review_count": 120
-	},
-	{
-		"id": "g-002",
-		"name_en": "Ergobaby Omni 360 Cool Air Mesh",
-		"name_ar": "حمالة أطفال إرجو بيبي أومني 360",
-		"category": "gear",
-		"price": 450.0,
-		"currency": "AED",
-		"age_range": "0 months-4 years",
-		"attributes": [
-			"ergonomic",
-			"breathable",
-			"multi-position",
-			"premium"
-		],
-		"description_en": "Carry your baby in all positions while staying cool. Saves your back from aches during long walks.",
-		"description_ar": "احمل طفلك بوضعيات مختلفة مع الحفاظ على البرودة. تحمي ظهرك من الآلام أثناء المشي الطويل.",
-		"rating": 4.8,
-		"review_count": 210
-	},
-	{
-		"id": "g-003",
-		"name_en": "Sunveno Diaper Bag Backpack",
-		"name_ar": "حقيبة ظهر للحفاضات من صنفونو",
-		"category": "gear",
-		"price": 145.0,
-		"currency": "AED",
-		"age_range": "Mothers",
-		"attributes": [
-			"large-capacity",
-			"waterproof",
-			"insulated-pockets",
-			"budget"
-		],
-		"description_en": "Fits everything you need for a day out. Many moms love the stylish design and extra space.",
-		"description_ar": "تتسع لكل ما تحتاجينه ليوم كامل بالخارج. تعشق الأمهات تصميمها الأنيق ومساحتها الواسعة.",
-		"rating": 4.7,
-		"review_count": 340
-	},
-	{
-		"id": "g-004",
-		"name_en": "Joie Gemm Group 0+ Car Seat",
-		"name_ar": "مقعد سيارة جوي جيم رضع",
-		"category": "gear",
-		"price": 320.0,
-		"currency": "AED",
-		"age_range": "0-13kg",
-		"attributes": [
-			"side-impact-protection",
-			"lightweight",
-			"safety-first",
-			"budget"
-		],
-		"description_en": "Comfortable and safe for the first car rides. Easy to install even if you're not tech-savvy.",
-		"description_ar": "مريح وآمن لرحلات السيارة الأولى. سهل التركيب حتى لو لم تكن خبيراً بالأمور التقنية.",
-		"rating": 4.5,
-		"review_count": 150
-	},
-	{
-		"id": "g-005",
-		"name_en": "Skip Hop Greenwich Changing Bag",
-		"name_ar": "حقيبة غيار سكيب هوب جرينتش",
-		"category": "gear",
-		"price": 380.0,
-		"currency": "AED",
-		"age_range": "Mothers",
-		"attributes": [
-			"vegan-leather",
-			"stylish",
-			"multiple-pockets",
-			"premium"
-		],
-		"description_en": "Doesn't even look like a diaper bag! Perfect for chic moms who want to stay organized.",
-		"description_ar": "لا تبدو كحقيبة حفاضات على الإطلاق! مثالية للأمهات الأنيقة اللواتي يرغبن في البقاء منظمات.",
-		"rating": 4.6,
-		"review_count": 85
-	},
-	{
-		"id": "g-006",
-		"name_en": "Summer Infant Pop n Sit Chair",
-		"name_ar": "كرسي سامر إنفانت القابل للطي",
-		"category": "gear",
-		"price": 120.0,
-		"currency": "AED",
-		"age_range": "6 months-3 years",
-		"attributes": [
-			"portable",
-			"tray-included",
-			"outdoor-friendly",
-			"compact"
-		],
-		"description_en": "Great little seat for picnics or visiting grandma. Folds up small like a camping chair.",
-		"description_ar": "كرسي صغير رائع للنزهات أو زيارة الجدة. يُطوى ليكون صغيراً مثل كراسي التخييم.",
-		"rating": 4.4,
-		"review_count": 92
-	},
-	{
-		"id": "g-007",
-		"name_en": "Kinder Valley Moses Basket",
-		"name_ar": "سلة موسى كيندر فالي",
-		"category": "gear",
-		"price": 160.0,
-		"currency": "AED",
-		"age_range": "0-6 months",
-		"attributes": [
-			"hand-woven",
-			"bedtime",
-			"traditional",
-			"cozy"
-		],
-		"description_en": "A snug little space for newborn naps. Includes a stand and soft lining for extra comfort.",
-		"description_ar": "مساحة صغيرة ودافئة لقيلولة المولود الجديد. تتضمن حاملاً وبطانة ناعمة لراحة إضافية.",
-		"rating": 4.2,
-		"review_count": 55
-	},
-	{
-		"id": "g-008",
-		"name_en": "Hauck Dream n Play Travel Cot",
-		"name_ar": "سرير السفر هوك دريم آند بلاي",
-		"category": "gear",
-		"price": 280.0,
-		"currency": "AED",
-		"age_range": "0-3 years",
-		"attributes": [
-			"foldable",
-			"transport-bag",
-			"sturdy",
-			"essential"
-		],
-		"description_en": "Essential for stays away from home. A bit clunky to set up the first time but very solid.",
-		"description_ar": "ضروري للإقامة بعيداً عن المنزل. صعب التركيب قليلاً في المرة الأولى لكنه متين جداً.",
-		"rating": 4.3,
-		"review_count": 110
-	},
-	{
-		"id": "g-009",
-		"name_en": "Ingenuity Baby Base 2-in-1 Seat",
-		"name_ar": "مقعد إنجنيويتي 2 في 1",
-		"category": "gear",
-		"price": 195.0,
-		"currency": "AED",
-		"age_range": "6 months-2 years",
-		"attributes": [
-			"booster-seat",
-			"removable-tray",
-			"easy-clean",
-			"daily"
-		],
-		"description_en": "Can be used on the floor or attached to a kitchen chair. Trays store under the seat, very clever.",
-		"description_ar": "يمكن استخدامه على الأرض أو تثبيته على كرسي المطبخ. تُخزن الصينية تحت المقعد، فكرة ذكية جداً.",
-		"rating": 4.8,
-		"review_count": 140
-	},
-	{
-		"id": "g-010",
-		"name_en": "Graco Pack n Play Quick Connect",
-		"name_ar": "طقم غيار وسرير جراكو باك آند بلاي",
-		"category": "gear",
-		"price": 470.0,
-		"currency": "AED",
-		"age_range": "0-3 years",
-		"attributes": [
-			"diaper-changer",
-			"multi-use",
-			"wheels",
-			"premium"
-		],
-		"description_en": "Complete station for sleeping and changing. Rocks slightly and has great portability features.",
-		"description_ar": "محطة كاملة للنوم والتغيير. تهتز قليلاً وتتميز بخصائص حمل ونقل ممتازة.",
-		"rating": 4.5,
-		"review_count": 68
-	},
-	{
-		"id": "d-011",
-		"name_en": "Huggies Ultra Comfort Size 3",
-		"name_ar": "هجيز ألترا كومفورت مقاس 3",
-		"category": "diapers",
-		"price": 50.0,
-		"currency": "AED",
-		"age_range": "5-10kg",
-		"attributes": [
-			"elastic-waist",
-			"absorbent-core",
-			"daily-use",
-			"budget"
-		],
-		"description_en": "Decent nappies for the price. Not the best for heavy wetters but fine for daytime.",
-		"description_ar": "حفاضات جيدة بالنسبة لسعرها. ليست الأفضل للامتصاص العالي جداً لكنها ممتازة للنهار.",
-		"rating": 3.5,
-		"review_count": 80
-	},
-	{
-		"id": "f-011",
-		"name_en": "Avent Microwave Steam Sterilizer",
-		"name_ar": "جهاز تعقيم الرضاعات بالبخار أفينت",
-		"category": "feeding",
-		"price": 135.0,
-		"currency": "AED",
-		"age_range": "0+ months",
-		"attributes": [
-			"sterilization",
-			"quick-cycle",
-			"BPA-free",
-			"essential"
-		],
-		"description_en": "Sterilizes up to 6 bottles in just a few minutes. Fits in most microwaves, very handy.",
-		"description_ar": "يعقم ما يصل إلى 6 رضاعات في دقائق معدودة. يناسب معظم أجهزة الميكروويف، مفيد جداً.",
-		"rating": 4.7,
-		"review_count": 250
-	},
-	{
-		"id": "t-011",
-		"name_en": "Fisher-Price Linkimals Smooth Move Sloth",
-		"name_ar": "حيوان الكسلان الممتع من فيشر برايس",
-		"category": "toys",
-		"price": 180.0,
-		"currency": "AED",
-		"age_range": "9 months+",
-		"attributes": [
-			"lights-music",
-			"interactive",
-			"counting",
-			"educational"
-		],
-		"description_en": "Claps its hands and moves its head to lights and music. Even more fun if you have other Linkimals.",
-		"description_ar": "يصفق بيديه ويحرك رأسه مع الأضواء والموسيقى. تزداد المتعة إذا كان لديك حيوانات لينكي مالز الأخرى.",
-		"rating": 4.8,
-		"review_count": 130
-	},
-	{
-		"id": "s-011",
-		"name_en": "Hipp Baby Soft Caring Oil",
-		"name_ar": "زيت العناية الناعم هيب بيبي",
-		"category": "skincare",
-		"price": 38.0,
-		"currency": "AED",
-		"age_range": "0 months+",
-		"attributes": [
-			"almond-oil",
-			"sensitive",
-			"no-mineral-oil",
-			"gentle"
-		],
-		"description_en": "With natural almond oil to keep skin supple. Use it after bath for a happy baby.",
-		"description_ar": "مع زيت اللوز الطبيعي للحفاظ على مرونة الجلد. استخدميه بعد الحمام لطفل سعيد.",
-		"rating": 4.5,
-		"review_count": 58
-	},
-	{
-		"id": "g-011",
-		"name_en": "Munchkin Brica Baby In-Sight Mirror",
-		"name_ar": "مرأة سيارة للأطفال بريكا من منشكين",
-		"category": "gear",
-		"price": 65.0,
-		"currency": "AED",
-		"age_range": "0 months+",
-		"attributes": [
-			"car-safety",
-			"shatter-resistant",
-			"easy-install",
-			"essential"
-		],
-		"description_en": "Keep an eye on your rear-facing baby while driving. Simple to attach and doesn't wobble.",
-		"description_ar": "راقبي طفلك في المقعد الخلفي أثناء القيادة. سهلة التركيب ولا تهتز.",
-		"rating": 4.9,
-		"review_count": 210
-	},
-	{
-		"id": "d-012",
-		"name_en": "Pampers Splashers Size 4-5",
-		"name_ar": "بامبرز سبلاشرز مقاس 4-5",
-		"category": "diapers",
-		"price": 45.0,
-		"currency": "AED",
-		"age_range": "9-15kg",
-		"attributes": [
-			"swim-diaper",
-			"easy-tear-sides",
-			"pool-safe",
-			"fun-design"
-		],
-		"description_en": "Doesn't swell up like a regular diaper in the pool. Tear sides for easy removal when wet.",
-		"description_ar": "لا ينتفخ مثل الحفاض العادي في المسبح. جوانب سهلة التمزق لخلعه بسهولة عندما يكون مبللاً.",
-		"rating": 4.7,
-		"review_count": 95
-	},
-	{
-		"id": "f-012",
-		"name_en": "Medela Calma Nipple Only",
-		"name_ar": "حلمة ميديلا كالمة الفردية",
-		"category": "feeding",
-		"price": 55.0,
-		"currency": "AED",
-		"age_range": "0+ months",
-		"attributes": [
-			"breastfeeding-support",
-			"standard-neck",
-			"advanced",
-			"premium"
-		],
-		"description_en": "Unique nipple that allows baby to drink like at the breast. Good for preventing nipple confusion.",
-		"description_ar": "حلمة فريدة تتيح للطفل الشرب مثل الرضاعة الطبيعية. جيدة لمنع ارتباك الحلمة عند الرضيع.",
-		"rating": 4.1,
-		"review_count": 62
-	},
-	{
-		"id": "t-012",
-		"name_en": "VTech Musical Rhymes Book",
-		"name_ar": "كتاب القوافي الموسيقي في تيك",
-		"category": "toys",
-		"price": 95.0,
-		"currency": "AED",
-		"age_range": "6-36 months",
-		"attributes": [
-			"musical",
-			"hard-pages",
-			"fine-motor-skills",
-			"educational"
-		],
-		"description_en": "Interactive pages with sliding pieces and fun songs. Teaches nursery rhymes in a fun way.",
-		"description_ar": "صفحات تفاعلية مع قطع منزلقة وأغاني ممتعة. يعلم القوافي الممتعة بطريقة شيقة.",
-		"rating": 4.6,
-		"review_count": 180
-	},
-	{
-		"id": "s-012",
-		"name_en": "Mustela No-Rinse Cleansing Water",
-		"name_ar": "ماء منظف موستيلا بدون شطف",
-		"category": "skincare",
-		"price": 68.0,
-		"currency": "AED",
-		"age_range": "0 months+",
-		"attributes": [
-			"micellar-water",
-			"quick-cleanse",
-			"diaper-change-hero",
-			"premium"
-		],
-		"description_en": "Perfect for quick clean-ups when you don't have time for a full bath. Leaves skin smelling fresh.",
-		"description_ar": "مثالي للتنظيف السريع عندما لا تملكين وقتاً للاستحمام الكامل. يترك البشرة برائحة منعشة.",
-		"rating": 4.8,
-		"review_count": 125
-	},
-	{
-		"id": "g-012",
-		"name_en": "Summer Infant My Size Potty",
-		"name_ar": "نونية سامر إنفانت (ماي سايز)",
-		"category": "gear",
-		"price": 140.0,
-		"currency": "AED",
-		"age_range": "18 months+",
-		"attributes": [
-			"toilet-training",
-			"realistic",
-			"flushing-sound",
-			"easy-clean"
-		],
-		"description_en": "Looks and sounds like a real adult toilet to encourage kids. Has a compartment for wipes at the back.",
-		"description_ar": "تشبه في الشكل والصوت مرحاض الكبار لتشجيع الأطفال. بها حجرة للمناديل المبللة في الخلف.",
-		"rating": 4.7,
-		"review_count": 215
-	}
+    {
+        "id": 1,
+        "name_en": "Huggies Extra Care Diapers Size 1",
+        "name_ar": "حفاضات هجيز عناية إضافية مقاس 1",
+        "category": "diapers",
+        "price": 45.0,
+        "currency": "AED",
+        "age_range": "0-3 months",
+        "attributes": [
+            "rash-free",
+            "cotton-soft",
+            "budget",
+            "high-absorbency"
+        ],
+        "description_en": "Softest touch for your newborn's delicate skin. Very popular among moms for its leak protection.",
+        "description_ar": "لمسة فائقة النعومة لبشرة مولودك الجديد الحساسة. خيار مفضل للأمهات بفضل حمايته الممتازة من التسريب.",
+        "rating": 4.8,
+        "review_count": 320
+    },
+    {
+        "id": 2,
+        "name_en": "Pampers Premium Care Size 2",
+        "name_ar": "بامبرز عناية مميزة مقاس 2",
+        "category": "diapers",
+        "price": 85.0,
+        "currency": "AED",
+        "age_range": "3-6 months",
+        "attributes": [
+            "premium",
+            "ultra-dry",
+            "leak-proof",
+            "breathable"
+        ],
+        "description_en": "Keep your baby dry for up to 12 hours. Best for overnight use though a bit pricey.",
+        "description_ar": "يحافظ على جفاف طفلك لمدة تصل إلى 12 ساعة. مثالي للاستخدام الليلي رغم سعره المرتفع قليلاً.",
+        "rating": 4.9,
+        "review_count": 450
+    },
+    {
+        "id": 3,
+        "name_en": "Fine Baby Diapers Economy Pack",
+        "name_ar": "حفاضات فاين بيبي العبوة الاقتصادية",
+        "category": "diapers",
+        "price": 55.0,
+        "currency": "AED",
+        "age_range": "6-12 months",
+        "attributes": [
+            "budget",
+            "chameleon-stretch",
+            "rash-free",
+            "daily-use"
+        ],
+        "description_en": "Great value for money for everyday use. A thin design that moves with your baby.",
+        "description_ar": "قيمة ممتازة مقابل السعر للاستخدام اليومي. تصميم مرن يتحرك مع طفلك بسهولة.",
+        "rating": 4.2,
+        "review_count": 150
+    },
+    {
+        "id": 4,
+        "name_en": "Eco by Naty Sustainable Diapers",
+        "name_ar": "حفاضات ناتي الصديقة للبيئة",
+        "category": "diapers",
+        "price": 120.0,
+        "currency": "AED",
+        "age_range": "0-6 months",
+        "attributes": [
+            "eco-friendly",
+            "organic",
+            "premium",
+            "hypoallergenic"
+        ],
+        "description_en": "Plant-based diapers that are good for the planet and baby. Moms love the natural feel.",
+        "description_ar": "حفاضات نباتية المصدر، صديقة للبيئة ولطفلك. تعشق الأمهات ملمسها الطبيعي اللطيف.",
+        "rating": 4.5,
+        "review_count": 89
+    },
+    {
+        "id": 5,
+        "name_en": "BabyJoy Culotte Pants Size 4",
+        "name_ar": "كلوت بيبي جوي مقاس 4",
+        "category": "diapers",
+        "price": 95.0,
+        "currency": "AED",
+        "age_range": "9-14 months",
+        "attributes": [
+            "easy-change",
+            "stretchable",
+            "active-baby",
+            "leak-barrier"
+        ],
+        "description_en": "Perfect for active babies who won't sit still for a change. Fits like underwear.",
+        "description_ar": "مثالية للأطفال النشيطين الذين يجدون صعوبة في الجلوس أثناء التغيير. مريحة مثل الملابس الداخلية.",
+        "rating": 4.7,
+        "review_count": 210
+    },
+    {
+        "id": 6,
+        "name_en": "Pampers Baby-Dry Pants Size 5",
+        "name_ar": "بامبرز بيبي دراي كلوت مقاس 5",
+        "category": "diapers",
+        "price": 105.0,
+        "currency": "AED",
+        "age_range": "12-18 months",
+        "attributes": [
+            "quick-dry",
+            "comfortable",
+            "flexible-fit",
+            "overnight"
+        ],
+        "description_en": "Easy on and easy off for toddlers on the go. Keeps them dry through the night.",
+        "description_ar": "سهلة الارتداء والخلع للصغار دائمي الحركة. تضمن بقاءهم جافين طوال الليل.",
+        "rating": 4.4,
+        "review_count": 185
+    },
+    {
+        "id": 7,
+        "name_en": "Molfix Baby Diapers Midi",
+        "name_ar": "حفاضات مولفيكس ميدي",
+        "category": "diapers",
+        "price": 40.0,
+        "currency": "AED",
+        "age_range": "4-9kg",
+        "attributes": [
+            "umbilical-cord-cut",
+            "budget",
+            "soft-loops",
+            "breathable-backsheet"
+        ],
+        "description_en": "Basic diapers with extra absorbency. Good choice for budget-conscious parents.",
+        "description_ar": "حفاضات أساسية بامتصاص إضافي. خيار جيد للآباء الباحثين عن التوفير.",
+        "rating": 3.8,
+        "review_count": 65
+    },
+    {
+        "id": 8,
+        "name_en": "Huggies Little Swimmers Size 2-3",
+        "name_ar": "هجيز ليتل سويمرز مقاس 2-3",
+        "category": "diapers",
+        "price": 35.0,
+        "currency": "AED",
+        "age_range": "3-9 months",
+        "attributes": [
+            "swim-ready",
+            "disposable",
+            "fun-patterns",
+            "non-swelling"
+        ],
+        "description_en": "Don't swell in water like regular diapers. Essential for pool time and seaside fun.",
+        "description_ar": "لا تنتفخ في الماء مثل الحفاضات العادية. ضرورية لوقت المسبح والمرح على الشاطئ.",
+        "rating": 4.6,
+        "review_count": 120
+    },
+    {
+        "id": 9,
+        "name_en": "Pureborn Organic Bamboo Diapers",
+        "name_ar": "حفاضات بيور بورن من خشب البامبو العضوي",
+        "category": "diapers",
+        "price": 140.0,
+        "currency": "AED",
+        "age_range": "1-2 years",
+        "attributes": [
+            "organic",
+            "hypoallergenic",
+            "premium",
+            "chemical-free"
+        ],
+        "description_en": "Made from sustainable bamboo fibers for sensitive skin. A bit of a luxury but worth it for the planet.",
+        "description_ar": "مصنوعة من ألياف البامبو المستدامة للبشرة الحساسة. تعتبر رفاهية لكنها تستحق لأجل الكوكب.",
+        "rating": 4.8,
+        "review_count": 55
+    },
+    {
+        "id": 10,
+        "name_en": "Bambo Nature Premium Diapers",
+        "name_ar": "حفاضات بامبو نايتشر المميزة",
+        "category": "diapers",
+        "price": 115.0,
+        "currency": "AED",
+        "age_range": "2-3 years",
+        "attributes": [
+            "eco-friendly",
+            "breathable",
+            "dermatologically-tested",
+            "premium"
+        ],
+        "description_en": "Eco-friendly option with a high-performance core. Reduced risk of diaper rash and allergies.",
+        "description_ar": "خيار صديق للبيئة مع قلب عالي الأداء. يقلل من مخاطر طفح الحفاض والحساسية.",
+        "rating": 4.3,
+        "review_count": 42
+    },
+    {
+        "id": 11,
+        "name_en": "Philips Avent Natural Baby Bottle 260ml",
+        "name_ar": "رضاعة فيليبس أفينت ناتشورال 260 مل",
+        "category": "feeding",
+        "price": 65.0,
+        "currency": "AED",
+        "age_range": "1 month+",
+        "attributes": [
+            "BPA-free",
+            "anti-colic",
+            "natural-latch",
+            "dishwasher-safe"
+        ],
+        "description_en": "The breast-like shape makes it easy to combine breast and bottle feeding. Loved by many new dads.",
+        "description_ar": "تصميم يحاكي شكل الثدي يسهل الجمع بين الرضاعة الطبيعية والصناعية. يفضلها الكثير من الآباء الجدد.",
+        "rating": 4.9,
+        "review_count": 480
+    },
+    {
+        "id": 12,
+        "name_en": "Tommee Tippee Closer to Nature Bottle",
+        "name_ar": "رضاعة تومي تيبي الأقرب للطبيعة",
+        "category": "feeding",
+        "price": 50.0,
+        "currency": "AED",
+        "age_range": "0 months+",
+        "attributes": [
+            "BPA-free",
+            "soft-silicone",
+            "anti-colic-valve",
+            "budget"
+        ],
+        "description_en": "Mimics the natural flex and movement of mom's breast. Affordable and reliable for daily use.",
+        "description_ar": "تحاكي المرونة والحركة الطبيعية لثدي الأم. موثوقة واقتصادية للاستخدام اليومي.",
+        "rating": 4.6,
+        "review_count": 350
+    },
+    {
+        "id": 13,
+        "name_en": "Dr. Brown's Options+ Wide-Neck Bottle",
+        "name_ar": "رضاعة دكتور براونز أوبشنز بلس بفتحة واسعة",
+        "category": "feeding",
+        "price": 75.0,
+        "currency": "AED",
+        "age_range": "0-6 months",
+        "attributes": [
+            "anti-colic",
+            "vent-system",
+            "premium",
+            "clinically-proven"
+        ],
+        "description_en": "Internal vent system reduces gas and spit-up. Great for fussy babies with tummy issues.",
+        "description_ar": "نظام تهوية داخلي يقلل من الغازات والارتجاع. رائعة للأطفال الذين يعانون من مشاكل البطن.",
+        "rating": 4.7,
+        "review_count": 410
+    },
+    {
+        "id": 14,
+        "name_en": "Medela Swing Maxi Double Electric Pump",
+        "name_ar": "مضخة ميديلا سوينج ماكسي الكهربائية المزدوجة",
+        "category": "feeding",
+        "price": 490.0,
+        "currency": "AED",
+        "age_range": "Mothers",
+        "attributes": [
+            "portable",
+            "double-pump",
+            "USB-rechargeable",
+            "premium"
+        ],
+        "description_en": "Compact and easy to use for busy moms who need to express quickly. High price tag but saves so much time.",
+        "description_ar": "مدمجة وسهلة الاستخدام للأمهات المشغولات اللواتي يحتجن لشفط الحليب بسرعة. سعرها مرتفع لكنها توفر الكثير من الوقت.",
+        "rating": 4.8,
+        "review_count": 120
+    },
+    {
+        "id": 15,
+        "name_en": "Beaba Babycook Solo Food Maker",
+        "name_ar": "محضر طعام بيابا بيبي كوك سولو",
+        "category": "feeding",
+        "price": 450.0,
+        "currency": "AED",
+        "age_range": "6 months+",
+        "attributes": [
+            "4-in-1",
+            "steamer",
+            "blender",
+            "compact",
+            "premium"
+        ],
+        "description_en": "Steam, blend, defrost, and reheat in one machine. Makes home cooking for baby super easy.",
+        "description_ar": "يطهو بالبخار، يخلط، يذيب التجميد، ويسخن في جهاز واحد. يجعل تحضير الوجبات المنزلية لطفلك في غاية السهولة.",
+        "rating": 4.7,
+        "review_count": 150
+    },
+    {
+        "id": 16,
+        "name_en": "Munchkin Miracle 360 Trainer Cup",
+        "name_ar": "كوب التدريب من منشكين ميركل 360",
+        "category": "feeding",
+        "price": 45.0,
+        "currency": "AED",
+        "age_range": "6 months+",
+        "attributes": [
+            "spill-proof",
+            "easy-clean",
+            "dentist-recommended",
+            "budget"
+        ],
+        "description_en": "Drinks from anywhere around the rim without spilling. A lifesaver for toddlers learning to drink properly.",
+        "description_ar": "يمكن الشرب من أي مكان حول الحافة دون انسكاب. منقذ للصغار الذين يتعلمون الشرب بشكل صحيح.",
+        "rating": 4.9,
+        "review_count": 500
+    },
+    {
+        "id": 17,
+        "name_en": "Lansinoh Breastmilk Storage Bags 50pcs",
+        "name_ar": "أكياس تخزين حليب الأم من لانسينوه 50 قطعة",
+        "category": "feeding",
+        "price": 42.0,
+        "currency": "AED",
+        "age_range": "Mothers",
+        "attributes": [
+            "pre-sterilized",
+            "leak-proof",
+            "BPA-free",
+            "essential"
+        ],
+        "description_en": "Super strong bags for freezing breast milk. They stand upright or lay flat for storage.",
+        "description_ar": "أكياس قوية جداً لتجميد حليب الأم. يمكن وضعها عمودياً أو أفقياً لسهولة التخزين.",
+        "rating": 4.6,
+        "review_count": 280
+    },
+    {
+        "id": 18,
+        "name_en": "Nuby Garden Fresh Silicone Squeezer",
+        "name_ar": "عصارة سيليكون نوبي جاردن فريش",
+        "category": "feeding",
+        "price": 28.0,
+        "currency": "AED",
+        "age_range": "4 months+",
+        "attributes": [
+            "mesh-feeder",
+            "self-feeding",
+            "soft-silicone",
+            "budget"
+        ],
+        "description_en": "Let your little one explore fresh fruit without the risk of choking. Very handy during weaning.",
+        "description_ar": "اسمح لصغيرك باستكشاف الفواكه الطازجة دون خطر الاختناق. مفيد جداً أثناء مرحلة الفطام.",
+        "rating": 4.3,
+        "review_count": 95
+    },
+    {
+        "id": 19,
+        "name_en": "Chicco Polly Progress Highchair",
+        "name_ar": "كرسي الطعام شيكو بولي بروجرس",
+        "category": "feeding",
+        "price": 480.0,
+        "currency": "AED",
+        "age_range": "0-3 years",
+        "attributes": [
+            "convertible",
+            "adjustable-height",
+            "foldable",
+            "premium"
+        ],
+        "description_en": "Grows with your baby from a recliner to a toddler booster seat. Sturdy and easy to wipe clean.",
+        "description_ar": "ينمو مع طفلك من وضعية الاستلقاء إلى مقعد مرتفع للصغار. متين وسهل التنظيف بمسحة واحدة.",
+        "rating": 4.5,
+        "review_count": 60
+    },
+    {
+        "id": 20,
+        "name_en": "Pigeon Liquid Cleanser for Bottles",
+        "name_ar": "منظف سائل بيجين للرضاعات",
+        "category": "feeding",
+        "price": 38.0,
+        "currency": "AED",
+        "age_range": "Family",
+        "attributes": [
+            "natural-ingredients",
+            "fruit-veggie-safe",
+            "food-grade",
+            "mild"
+        ],
+        "description_en": "Safe and effective for cleaning bottles and even washing fruits. Doesn't leave a nasty soap smell.",
+        "description_ar": "آمن وفعال لتنظيف الرضاعات وحتى غسل الفواكه. لا يترك رائحة صابون مزعجة.",
+        "rating": 4.8,
+        "review_count": 215
+    },
+    {
+        "id": 21,
+        "name_en": "Fisher-Price Baby's First Blocks",
+        "name_ar": "مكعبات الطفل الأولى من فيشر برايس",
+        "category": "toys",
+        "price": 45.0,
+        "currency": "AED",
+        "age_range": "6-18 months",
+        "attributes": [
+            "educational",
+            "color-recognition",
+            "sorting-toy",
+            "budget"
+        ],
+        "description_en": "Classic shape sorter that keeps babies busy for ages. Durable enough to survive many drops.",
+        "description_ar": "لعبة كلاسيكية لفرز الأشكال تبقي الأطفال مشغولين لفترات طويلة. متينة بما يكفي لتتحمل السقوط المتكرر.",
+        "rating": 4.9,
+        "review_count": 380
+    },
+    {
+        "id": 22,
+        "name_en": "VTech Sit-to-Stand Learning Walker",
+        "name_ar": "مشاية التعلم من في تيك",
+        "category": "toys",
+        "price": 195.0,
+        "currency": "AED",
+        "age_range": "9-36 months",
+        "attributes": [
+            "interactive",
+            "musical",
+            "motor-skills",
+            "best-seller"
+        ],
+        "description_en": "Has a removable activity panel and fun animal sounds. Helps them take those first wobbly steps.",
+        "description_ar": "تتميز بلوحة أنشطة قابلة للإزالة وأصوات حيوانات ممتعة. تساعدهم على اتخاذ خطواتهم الأولى المتعثرة.",
+        "rating": 4.8,
+        "review_count": 420
+    },
+    {
+        "id": 23,
+        "name_en": "LEGO DUPLO Classic Heart Box",
+        "name_ar": "صندوق اﻟﻘﻠﺐ ﻟﻴﺠﻮ دوبلو",
+        "category": "toys",
+        "price": 85.0,
+        "currency": "AED",
+        "age_range": "1.5-3 years",
+        "attributes": [
+            "creative",
+            "safe-size",
+            "building-blocks",
+            "premium"
+        ],
+        "description_en": "Perfect introduction to building for tiny hands. Great for focus and imagination.",
+        "description_ar": "بداية مثالية لعالم البناء للأيدي الصغيرة. رائعة لتنمية التركيز والخيال.",
+        "rating": 4.9,
+        "review_count": 210
+    },
+    {
+        "id": 24,
+        "name_en": "Sophie la Girafe Soothing Teether",
+        "name_ar": "عضاضة الزرافة صوفي المهدئة",
+        "category": "toys",
+        "price": 110.0,
+        "currency": "AED",
+        "age_range": "3 months+",
+        "attributes": [
+            "natural-rubber",
+            "teething",
+            "hand-painted",
+            "premium"
+        ],
+        "description_en": "Iconic teething toy made from 100% natural rubber. Expensive but babies just love chewing on it.",
+        "description_ar": "لعبة عض شهيرة مصنوعة من المطاط الطبيعي 100%. غالية الثمن لكن الأطفال يحبون مضغها جداً.",
+        "rating": 4.7,
+        "review_count": 315
+    },
+    {
+        "id": 25,
+        "name_en": "Tiny Love Gymini Dynamic Activity Mat",
+        "name_ar": "بساط الأنشطة تايني لوف جيميناي",
+        "category": "toys",
+        "price": 320.0,
+        "currency": "AED",
+        "age_range": "0-12 months",
+        "attributes": [
+            "sensory-play",
+            "tummy-time",
+            "washable",
+            "premium"
+        ],
+        "description_en": "Engaging baby gym with adjustable arches and lights. Keeps them entertained during tummy time.",
+        "description_ar": "صالة ألعاب ممتعة للأطفال مع أقواس قابلة للتعديل وأضواء. تبقيهم مستمتعين أثناء وقت الاستلقاء على البطن.",
+        "rating": 4.6,
+        "review_count": 92
+    },
+    {
+        "id": 26,
+        "name_en": "Skip Hop Bandana Buddies Activity Toy",
+        "name_ar": "لعبة الأنشطة سكيب هوب باندانا باديز",
+        "category": "toys",
+        "price": 65.0,
+        "currency": "AED",
+        "age_range": "0-12 months",
+        "attributes": [
+            "multi-sensory",
+            "stroller-toy",
+            "teether-included",
+            "soft"
+        ],
+        "description_en": "Cute animal friend with rattles and textures to explore. Attaches easily to strollers or bags.",
+        "description_ar": "صديق لطيف من الحيوانات مع خشخيشات وأنسجة متنوعة للاستكشاف. يسهل تثبيته على العربات أو الحقائب.",
+        "rating": 4.4,
+        "review_count": 140
+    },
+    {
+        "id": 27,
+        "name_en": "Stacking Cups Rainbow Set",
+        "name_ar": "مجموعة أكواب التراص الملونة",
+        "category": "toys",
+        "price": 25.0,
+        "currency": "AED",
+        "age_range": "6-24 months",
+        "attributes": [
+            "budget",
+            "bath-toy",
+            "stacking",
+            "classic"
+        ],
+        "description_en": "Simple but endless fun in the bath or sandbox. Great cheap pick for any nursery.",
+        "description_ar": "بسيطة ولكنها توفر مرحاً لا ينتهي في الحمام أو في الرمل. خيار رخيص وممتاز لأي غرفة أطفال.",
+        "rating": 4.8,
+        "review_count": 275
+    },
+    {
+        "id": 28,
+        "name_en": "Little Tikes Cozy Coupe Ride-On",
+        "name_ar": "سيارة ليتل تايكس كوزي كوبيه",
+        "category": "toys",
+        "price": 380.0,
+        "currency": "AED",
+        "age_range": "1.5-5 years",
+        "attributes": [
+            "outdoor-toy",
+            "active-play",
+            "sturdy",
+            "classic"
+        ],
+        "description_en": "The famous red and yellow car for garden adventures. Takes a bit of time to assemble but lasts forever.",
+        "description_ar": "السيارة الحمراء والصفراء الشهيرة لمغامرات الحديقة. يستغرق تجميعها بعض الوقت لكنها تدوم للأبد.",
+        "rating": 4.7,
+        "review_count": 180
+    },
+    {
+        "id": 29,
+        "name_en": "Melissa & Doug Wooden Building Blocks",
+        "name_ar": "مكعبات بناء خشبية من ميليسا آند دوغ",
+        "category": "toys",
+        "price": 145.0,
+        "currency": "AED",
+        "age_range": "2-4 years",
+        "attributes": [
+            "wooden",
+            "open-ended-play",
+            "durable",
+            "premium"
+        ],
+        "description_en": "High quality solid wood blocks for building towers. Good for kids who like to create things.",
+        "description_ar": "مكعبات خشبية صلبة عالية الجودة لبناء الأبراج. ممتازة للأطفال الذين يحبون الابتكار.",
+        "rating": 4.5,
+        "review_count": 55
+    },
+    {
+        "id": 30,
+        "name_en": "Soft Plush Elephant Sleep Aid",
+        "name_ar": "فيل قماشي ناعم للمساعدة على النوم",
+        "category": "toys",
+        "price": 55.0,
+        "currency": "AED",
+        "age_range": "0-36 months",
+        "attributes": [
+            "soft-plush",
+            "cuddle-toy",
+            "bedtime",
+            "budget"
+        ],
+        "description_en": "Super soft companion for bedtime cuddles. Simple design without batteries or noise.",
+        "description_ar": "رفيق فائق النعومة للعناق وقت النوم. تصميم بسيط بدون بطاريات أو ضجيج.",
+        "rating": 4.2,
+        "review_count": 115
+    },
+    {
+        "id": 31,
+        "name_en": "Johnson's Baby Bath 500ml",
+        "name_ar": "سائل استحمام جونسون للأطفال 500 مل",
+        "category": "skincare",
+        "price": 28.0,
+        "currency": "AED",
+        "age_range": "0 months+",
+        "attributes": [
+            "no-more-tears",
+            "mild",
+            "budget",
+            "iconic"
+        ],
+        "description_en": "Gentle formula that doesn't sting the eyes. Smells like a clean baby should.",
+        "description_ar": "تركيبة لطيفة لا تسبب الدموع في العينين. رائحته تذكرنا دائماً بالنظافة والانتعاش.",
+        "rating": 4.5,
+        "review_count": 480
+    },
+    {
+        "id": 32,
+        "name_en": "Mustela Stelatopia Emollient Cream",
+        "name_ar": "كريم موستيلا ستيلاتوبيا المرطب",
+        "category": "skincare",
+        "price": 115.0,
+        "currency": "AED",
+        "age_range": "0 months+",
+        "attributes": [
+            "eczema-prone",
+            "fragrance-free",
+            "dermatologist-tested",
+            "premium"
+        ],
+        "description_en": "Specialized cream for very dry or itchy skin. Really helps calm down those red patches.",
+        "description_ar": "كريم متخصص للبشرة الجافة جداً أو المتهيجة. يساعد حقاً في تهدئة البقع الحمراء.",
+        "rating": 4.8,
+        "review_count": 145
+    },
+    {
+        "id": 33,
+        "name_en": "Sebamed Baby Wash Extra Soft",
+        "name_ar": "غسول سيباميد للأطفال فائق النعومة",
+        "category": "skincare",
+        "price": 42.0,
+        "currency": "AED",
+        "age_range": "0 months+",
+        "attributes": [
+            "pH-balanced",
+            "soap-free",
+            "sensitive-skin",
+            "daily-use"
+        ],
+        "description_en": "Supports the development of the acid mantle. Good middle-ground price for daily bathing.",
+        "description_ar": "يدعم تطور الطبقة الحمضية الواقية للبشرة. سعر مناسب للاستخدام اليومي في الاستحمام.",
+        "rating": 4.6,
+        "review_count": 230
+    },
+    {
+        "id": 34,
+        "name_en": "Sudocrem Healing Cream 125g",
+        "name_ar": "كريم سودوكريم المعالج 125 جم",
+        "category": "skincare",
+        "price": 35.0,
+        "currency": "AED",
+        "age_range": "Family",
+        "attributes": [
+            "rash-treatment",
+            "barrier-cream",
+            "reliable",
+            "budget"
+        ],
+        "description_en": "The classic fix for diaper rash and minor scrapes. Every mom has one of these in her bag.",
+        "description_ar": "الحل الكلاسيكي لطفح الحفاض والخدوش البسيطة. لا تخلو حقيبة أي أم من هذا الكريم.",
+        "rating": 4.9,
+        "review_count": 500
+    },
+    {
+        "id": 35,
+        "name_en": "Aveeno Baby Daily Moisture Lotion",
+        "name_ar": "لوشن أفينو المرطب اليومي للأطفال",
+        "category": "skincare",
+        "price": 55.0,
+        "currency": "AED",
+        "age_range": "0-3 years",
+        "attributes": [
+            "natural-oats",
+            "non-greasy",
+            "paraben-free",
+            "gentle"
+        ],
+        "description_en": "Lightweight lotion that absorbs quickly and keeps skin smooth. Smells subtle and natural.",
+        "description_ar": "لوشن خفيف الوزن يمتص بسرعة ويحافظ على نعومة البشرة. رائحته هادئة وطبيعية.",
+        "rating": 4.7,
+        "review_count": 310
+    },
+    {
+        "id": 36,
+        "name_en": "Bioderma ABC Derm Foaming Cleanser",
+        "name_ar": "جل منظف بيوديرما ABC Derm",
+        "category": "skincare",
+        "price": 85.0,
+        "currency": "AED",
+        "age_range": "0 months+",
+        "attributes": [
+            "tear-free",
+            "soap-free",
+            "high-tolerance",
+            "premium"
+        ],
+        "description_en": "High quality face and body wash for newborns. Doesn't dry out the skin at all.",
+        "description_ar": "منظف عالي الجودة للوجه والجسم للمواليد الجدد. لا يسبب جفاف البشرة بتاتاً.",
+        "rating": 4.4,
+        "review_count": 65
+    },
+    {
+        "id": 37,
+        "name_en": "Organic Coconut Baby Oil",
+        "name_ar": "زيت جوز الهند العضوي للأطفال",
+        "category": "skincare",
+        "price": 60.0,
+        "currency": "AED",
+        "age_range": "All ages",
+        "attributes": [
+            "100%-pure",
+            "organic",
+            "multi-purpose",
+            "eco-friendly"
+        ],
+        "description_en": "Good for baby massage, cradle cap, or dry elbows. No chemicals, just pure goodness.",
+        "description_ar": "رائع لمساج الطفل، قشرة الرأس، أو الأكواع الجافة. خالي من الكيماويات، طبيعي تماماً.",
+        "rating": 4.3,
+        "review_count": 88
+    },
+    {
+        "id": 38,
+        "name_en": "Cetaphil Baby Gentle Wash & Shampoo",
+        "name_ar": "غسول وشامبو سيتافيل اللطيف للأطفال",
+        "category": "skincare",
+        "price": 48.0,
+        "currency": "AED",
+        "age_range": "0 months+",
+        "attributes": [
+            "glycerin-enriched",
+            "hypoallergenic",
+            "all-in-one",
+            "budget"
+        ],
+        "description_en": "Convenient pump bottle for the shower. Gentle enough for hair and body in one go.",
+        "description_ar": "عبوة مريحة بمضخة للاستخدام في الحمام. لطيف بما يكفي للشعر والجسم معاً.",
+        "rating": 4.6,
+        "review_count": 190
+    },
+    {
+        "id": 39,
+        "name_en": "Chicco Nappy Rash Cream 100ml",
+        "name_ar": "كريم شيكو لطفح الحفاض 100 مل",
+        "category": "skincare",
+        "price": 22.0,
+        "currency": "AED",
+        "age_range": "0-2 years",
+        "attributes": [
+            "zinc-oxide",
+            "soothing",
+            "cheap",
+            "everyday"
+        ],
+        "description_en": "An affordable zinc-based barrier cream. Not as thick as Sudocrem but works fine.",
+        "description_ar": "كريم واقي ميسور التكلفة يعتمد على الزنك. ليس بكثافة سودوكريم لكنه يؤدي المهمة.",
+        "rating": 3.9,
+        "review_count": 45
+    },
+    {
+        "id": 40,
+        "name_en": "Weleda Baby Calendula Body Cream",
+        "name_ar": "كريم الجسم ويليدا بكاليندولا",
+        "category": "skincare",
+        "price": 72.0,
+        "currency": "AED",
+        "age_range": "0-12 months",
+        "attributes": [
+            "organic",
+            "calendula-extract",
+            "natural-scent",
+            "premium"
+        ],
+        "description_en": "Rich cream with organic Calendula to protect delicate skin. Very popular in Europe.",
+        "description_ar": "كريم غني بخلاصة الكاليندولا العضوية لحماية البشرة الحساسة. يحظى بشعبية كبيرة في أوروبا.",
+        "rating": 4.7,
+        "review_count": 76
+    },
+    {
+        "id": 41,
+        "name_en": "Babyzen YOYO2 6+ Stroller Black",
+        "name_ar": "عربة أطفال بيبي زين يويو 2 الأسود",
+        "category": "gear",
+        "price": 499.0,
+        "currency": "AED",
+        "age_range": "6 months-4 years",
+        "attributes": [
+            "travel-friendly",
+            "cabin-size",
+            "lightweight",
+            "premium"
+        ],
+        "description_en": "The ultimate travel stroller that fits in airplane overhead bins. Easy to fold with one hand.",
+        "description_ar": "أفضل عربة للسفر تناسب مقصورة الطائرة. سهلة الطي بيد واحدة ومريحة للغاية.",
+        "rating": 5.0,
+        "review_count": 120
+    },
+    {
+        "id": 42,
+        "name_en": "Ergobaby Omni 360 Cool Air Mesh",
+        "name_ar": "حمالة أطفال إرجو بيبي أومني 360",
+        "category": "gear",
+        "price": 450.0,
+        "currency": "AED",
+        "age_range": "0 months-4 years",
+        "attributes": [
+            "ergonomic",
+            "breathable",
+            "multi-position",
+            "premium"
+        ],
+        "description_en": "Carry your baby in all positions while staying cool. Saves your back from aches during long walks.",
+        "description_ar": "احمل طفلك بوضعيات مختلفة مع الحفاظ على البرودة. تحمي ظهرك من الآلام أثناء المشي الطويل.",
+        "rating": 4.8,
+        "review_count": 210
+    },
+    {
+        "id": 43,
+        "name_en": "Sunveno Diaper Bag Backpack",
+        "name_ar": "حقيبة ظهر للحفاضات من صنفونو",
+        "category": "gear",
+        "price": 145.0,
+        "currency": "AED",
+        "age_range": "Mothers",
+        "attributes": [
+            "large-capacity",
+            "waterproof",
+            "insulated-pockets",
+            "budget"
+        ],
+        "description_en": "Fits everything you need for a day out. Many moms love the stylish design and extra space.",
+        "description_ar": "تتسع لكل ما تحتاجينه ليوم كامل بالخارج. تعشق الأمهات تصميمها الأنيق ومساحتها الواسعة.",
+        "rating": 4.7,
+        "review_count": 340
+    },
+    {
+        "id": 44,
+        "name_en": "Joie Gemm Group 0+ Car Seat",
+        "name_ar": "مقعد سيارة جوي جيم رضع",
+        "category": "gear",
+        "price": 320.0,
+        "currency": "AED",
+        "age_range": "0-13kg",
+        "attributes": [
+            "side-impact-protection",
+            "lightweight",
+            "safety-first",
+            "budget"
+        ],
+        "description_en": "Comfortable and safe for the first car rides. Easy to install even if you're not tech-savvy.",
+        "description_ar": "مريح وآمن لرحلات السيارة الأولى. سهل التركيب حتى لو لم تكن خبيراً بالأمور التقنية.",
+        "rating": 4.5,
+        "review_count": 150
+    },
+    {
+        "id": 45,
+        "name_en": "Skip Hop Greenwich Changing Bag",
+        "name_ar": "حقيبة غيار سكيب هوب جرينتش",
+        "category": "gear",
+        "price": 380.0,
+        "currency": "AED",
+        "age_range": "Mothers",
+        "attributes": [
+            "vegan-leather",
+            "stylish",
+            "multiple-pockets",
+            "premium"
+        ],
+        "description_en": "Doesn't even look like a diaper bag! Perfect for chic moms who want to stay organized.",
+        "description_ar": "لا تبدو كحقيبة حفاضات على الإطلاق! مثالية للأمهات الأنيقة اللواتي يرغبن في البقاء منظمات.",
+        "rating": 4.6,
+        "review_count": 85
+    },
+    {
+        "id": 46,
+        "name_en": "Summer Infant Pop n Sit Chair",
+        "name_ar": "كرسي سامر إنفانت القابل للطي",
+        "category": "gear",
+        "price": 120.0,
+        "currency": "AED",
+        "age_range": "6 months-3 years",
+        "attributes": [
+            "portable",
+            "tray-included",
+            "outdoor-friendly",
+            "compact"
+        ],
+        "description_en": "Great little seat for picnics or visiting grandma. Folds up small like a camping chair.",
+        "description_ar": "كرسي صغير رائع للنزهات أو زيارة الجدة. يُطوى ليكون صغيراً مثل كراسي التخييم.",
+        "rating": 4.4,
+        "review_count": 92
+    },
+    {
+        "id": 47,
+        "name_en": "Kinder Valley Moses Basket",
+        "name_ar": "سلة موسى كيندر فالي",
+        "category": "gear",
+        "price": 160.0,
+        "currency": "AED",
+        "age_range": "0-6 months",
+        "attributes": [
+            "hand-woven",
+            "bedtime",
+            "traditional",
+            "cozy"
+        ],
+        "description_en": "A snug little space for newborn naps. Includes a stand and soft lining for extra comfort.",
+        "description_ar": "مساحة صغيرة ودافئة لقيلولة المولود الجديد. تتضمن حاملاً وبطانة ناعمة لراحة إضافية.",
+        "rating": 4.2,
+        "review_count": 55
+    },
+    {
+        "id": 48,
+        "name_en": "Hauck Dream n Play Travel Cot",
+        "name_ar": "سرير السفر هوك دريم آند بلاي",
+        "category": "gear",
+        "price": 280.0,
+        "currency": "AED",
+        "age_range": "0-3 years",
+        "attributes": [
+            "foldable",
+            "transport-bag",
+            "sturdy",
+            "essential"
+        ],
+        "description_en": "Essential for stays away from home. A bit clunky to set up the first time but very solid.",
+        "description_ar": "ضروري للإقامة بعيداً عن المنزل. صعب التركيب قليلاً في المرة الأولى لكنه متين جداً.",
+        "rating": 4.3,
+        "review_count": 110
+    },
+    {
+        "id": 49,
+        "name_en": "Ingenuity Baby Base 2-in-1 Seat",
+        "name_ar": "مقعد إنجنيويتي 2 في 1",
+        "category": "gear",
+        "price": 195.0,
+        "currency": "AED",
+        "age_range": "6 months-2 years",
+        "attributes": [
+            "booster-seat",
+            "removable-tray",
+            "easy-clean",
+            "daily"
+        ],
+        "description_en": "Can be used on the floor or attached to a kitchen chair. Trays store under the seat, very clever.",
+        "description_ar": "يمكن استخدامه على الأرض أو تثبيته على كرسي المطبخ. تُخزن الصينية تحت المقعد، فكرة ذكية جداً.",
+        "rating": 4.8,
+        "review_count": 140
+    },
+    {
+        "id": 50,
+        "name_en": "Graco Pack n Play Quick Connect",
+        "name_ar": "طقم غيار وسرير جراكو باك آند بلاي",
+        "category": "gear",
+        "price": 470.0,
+        "currency": "AED",
+        "age_range": "0-3 years",
+        "attributes": [
+            "diaper-changer",
+            "multi-use",
+            "wheels",
+            "premium"
+        ],
+        "description_en": "Complete station for sleeping and changing. Rocks slightly and has great portability features.",
+        "description_ar": "محطة كاملة للنوم والتغيير. تهتز قليلاً وتتميز بخصائص حمل ونقل ممتازة.",
+        "rating": 4.5,
+        "review_count": 68
+    },
+    {
+        "id": 51,
+        "name_en": "Huggies Ultra Comfort Size 3",
+        "name_ar": "هجيز ألترا كومفورت مقاس 3",
+        "category": "diapers",
+        "price": 50.0,
+        "currency": "AED",
+        "age_range": "5-10kg",
+        "attributes": [
+            "elastic-waist",
+            "absorbent-core",
+            "daily-use",
+            "budget"
+        ],
+        "description_en": "Decent nappies for the price. Not the best for heavy wetters but fine for daytime.",
+        "description_ar": "حفاضات جيدة بالنسبة لسعرها. ليست الأفضل للامتصاص العالي جداً لكنها ممتازة للنهار.",
+        "rating": 3.5,
+        "review_count": 80
+    },
+    {
+        "id": 52,
+        "name_en": "Avent Microwave Steam Sterilizer",
+        "name_ar": "جهاز تعقيم الرضاعات بالبخار أفينت",
+        "category": "feeding",
+        "price": 135.0,
+        "currency": "AED",
+        "age_range": "0+ months",
+        "attributes": [
+            "sterilization",
+            "quick-cycle",
+            "BPA-free",
+            "essential"
+        ],
+        "description_en": "Sterilizes up to 6 bottles in just a few minutes. Fits in most microwaves, very handy.",
+        "description_ar": "يعقم ما يصل إلى 6 رضاعات في دقائق معدودة. يناسب معظم أجهزة الميكروويف، مفيد جداً.",
+        "rating": 4.7,
+        "review_count": 250
+    },
+    {
+        "id": 53,
+        "name_en": "Fisher-Price Linkimals Smooth Move Sloth",
+        "name_ar": "حيوان الكسلان الممتع من فيشر برايس",
+        "category": "toys",
+        "price": 180.0,
+        "currency": "AED",
+        "age_range": "9 months+",
+        "attributes": [
+            "lights-music",
+            "interactive",
+            "counting",
+            "educational"
+        ],
+        "description_en": "Claps its hands and moves its head to lights and music. Even more fun if you have other Linkimals.",
+        "description_ar": "يصفق بيديه ويحرك رأسه مع الأضواء والموسيقى. تزداد المتعة إذا كان لديك حيوانات لينكي مالز الأخرى.",
+        "rating": 4.8,
+        "review_count": 130
+    },
+    {
+        "id": 54,
+        "name_en": "Hipp Baby Soft Caring Oil",
+        "name_ar": "زيت العناية الناعم هيب بيبي",
+        "category": "skincare",
+        "price": 38.0,
+        "currency": "AED",
+        "age_range": "0 months+",
+        "attributes": [
+            "almond-oil",
+            "sensitive",
+            "no-mineral-oil",
+            "gentle"
+        ],
+        "description_en": "With natural almond oil to keep skin supple. Use it after bath for a happy baby.",
+        "description_ar": "مع زيت اللوز الطبيعي للحفاظ على مرونة الجلد. استخدميه بعد الحمام لطفل سعيد.",
+        "rating": 4.5,
+        "review_count": 58
+    },
+    {
+        "id": 55,
+        "name_en": "Munchkin Brica Baby In-Sight Mirror",
+        "name_ar": "مرأة سيارة للأطفال بريكا من منشكين",
+        "category": "gear",
+        "price": 65.0,
+        "currency": "AED",
+        "age_range": "0 months+",
+        "attributes": [
+            "car-safety",
+            "shatter-resistant",
+            "easy-install",
+            "essential"
+        ],
+        "description_en": "Keep an eye on your rear-facing baby while driving. Simple to attach and doesn't wobble.",
+        "description_ar": "راقبي طفلك في المقعد الخلفي أثناء القيادة. سهلة التركيب ولا تهتز.",
+        "rating": 4.9,
+        "review_count": 210
+    },
+    {
+        "id": 56,
+        "name_en": "Pampers Splashers Size 4-5",
+        "name_ar": "بامبرز سبلاشرز مقاس 4-5",
+        "category": "diapers",
+        "price": 45.0,
+        "currency": "AED",
+        "age_range": "9-15kg",
+        "attributes": [
+            "swim-diaper",
+            "easy-tear-sides",
+            "pool-safe",
+            "fun-design"
+        ],
+        "description_en": "Doesn't swell up like a regular diaper in the pool. Tear sides for easy removal when wet.",
+        "description_ar": "لا ينتفخ مثل الحفاض العادي في المسبح. جوانب سهلة التمزق لخلعه بسهولة عندما يكون مبللاً.",
+        "rating": 4.7,
+        "review_count": 95
+    },
+    {
+        "id": 57,
+        "name_en": "Medela Calma Nipple Only",
+        "name_ar": "حلمة ميديلا كالمة الفردية",
+        "category": "feeding",
+        "price": 55.0,
+        "currency": "AED",
+        "age_range": "0+ months",
+        "attributes": [
+            "breastfeeding-support",
+            "standard-neck",
+            "advanced",
+            "premium"
+        ],
+        "description_en": "Unique nipple that allows baby to drink like at the breast. Good for preventing nipple confusion.",
+        "description_ar": "حلمة فريدة تتيح للطفل الشرب مثل الرضاعة الطبيعية. جيدة لمنع ارتباك الحلمة عند الرضيع.",
+        "rating": 4.1,
+        "review_count": 62
+    },
+    {
+        "id": 58,
+        "name_en": "VTech Musical Rhymes Book",
+        "name_ar": "كتاب القوافي الموسيقي في تيك",
+        "category": "toys",
+        "price": 95.0,
+        "currency": "AED",
+        "age_range": "6-36 months",
+        "attributes": [
+            "musical",
+            "hard-pages",
+            "fine-motor-skills",
+            "educational"
+        ],
+        "description_en": "Interactive pages with sliding pieces and fun songs. Teaches nursery rhymes in a fun way.",
+        "description_ar": "صفحات تفاعلية مع قطع منزلقة وأغاني ممتعة. يعلم القوافي الممتعة بطريقة شيقة.",
+        "rating": 4.6,
+        "review_count": 180
+    },
+    {
+        "id": 59,
+        "name_en": "Mustela No-Rinse Cleansing Water",
+        "name_ar": "ماء منظف موستيلا بدون شطف",
+        "category": "skincare",
+        "price": 68.0,
+        "currency": "AED",
+        "age_range": "0 months+",
+        "attributes": [
+            "micellar-water",
+            "quick-cleanse",
+            "diaper-change-hero",
+            "premium"
+        ],
+        "description_en": "Perfect for quick clean-ups when you don't have time for a full bath. Leaves skin smelling fresh.",
+        "description_ar": "مثالي للتنظيف السريع عندما لا تملكين وقتاً للاستحمام الكامل. يترك البشرة برائحة منعشة.",
+        "rating": 4.8,
+        "review_count": 125
+    },
+    {
+        "id": 60,
+        "name_en": "Summer Infant My Size Potty",
+        "name_ar": "نونية سامر إنفانت (ماي سايز)",
+        "category": "gear",
+        "price": 140.0,
+        "currency": "AED",
+        "age_range": "18 months+",
+        "attributes": [
+            "toilet-training",
+            "realistic",
+            "flushing-sound",
+            "easy-clean"
+        ],
+        "description_en": "Looks and sounds like a real adult toilet to encourage kids. Has a compartment for wipes at the back.",
+        "description_ar": "تشبه في الشكل والصوت مرحاض الكبار لتشجيع الأطفال. بها حجرة للمناديل المبللة في الخلف.",
+        "rating": 4.7,
+        "review_count": 215
+    }
 ]
