@@ -1,0 +1,273 @@
+[
+	{
+		"query": "organic diapers for 6 month baby under 200 AED",
+		"retrieval": {
+			"relevant_product_ids": [
+				4
+			]
+		},
+		"behavior": {
+			"expected_category": "diapers",
+			"expected_price_max": 200.0,
+			"expected_min_age": 6,
+			"expected_max_age": 6,
+			"expected_target_customer": "baby",
+			"expected_attributes": [
+				"organic"
+			]
+		}
+	},
+	{
+		"query": "baby stroller lightweight travel friendly",
+		"retrieval": {
+			"relevant_product_ids": [
+				41
+			]
+		},
+		"behavior": {
+			"expected_category": "gear",
+			"expected_attributes": [
+				"lightweight",
+				"travel-friendly"
+			],
+			"expected_target_customer": "baby"
+		}
+	},
+	{
+		"query": "teething toys for infants safe and BPA free",
+		"retrieval": {
+			"relevant_product_ids": []
+		},
+		"behavior": {
+			"expected_category": "toys",
+			"expected_attributes": [
+				"teething",
+				"bpa-free"
+			],
+			"expected_target_customer": "baby"
+		}
+	},
+	{
+		"query": "cheap but good diapers not causing irritation",
+		"retrieval": {
+			"relevant_product_ids": []
+		},
+		"behavior": {
+			"expected_category": "diapers",
+			"expected_price_max": 60.0,
+			"expected_attributes": [
+				"cheap",
+				"sensitive-skin"
+			]
+		}
+	},
+	{
+		"query": "premium high quality diapers under 150 AED",
+		"retrieval": {
+			"relevant_product_ids": [
+				2,
+				4,
+				9,
+				10
+			]
+		},
+		"behavior": {
+			"expected_category": "diapers",
+			"expected_price_max": 150.0,
+			"expected_attributes": [
+				"premium"
+			]
+		}
+	},
+	{
+		"query": "gift for newborn baby girl under 150 AED",
+		"retrieval": {
+			"relevant_product_ids": [
+				1,
+				2,
+				4,
+				7,
+				8,
+				11,
+				12,
+				13,
+				24,
+				26,
+				30,
+				31,
+				32,
+				33,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				46,
+				51,
+				52,
+				54,
+				55,
+				57,
+				59
+			]
+		},
+		"behavior": {
+			"expected_price_max": 150.0,
+			"expected_min_age": 0,
+			"expected_max_age": 3,
+			"expected_target_customer": "baby"
+		}
+	},
+	{
+		"query": "organic luxury gift but very cheap",
+		"retrieval": {
+			"relevant_product_ids": []
+		},
+		"behavior": {
+			"expected_attributes": [
+				"organic",
+				"premium",
+				"cheap"
+			],
+			"expected_price_max": 60.0
+		}
+	},
+	{
+		"query": "حفاضات عضوية لطفل عمره 6 شهور",
+		"retrieval": {
+			"relevant_product_ids": [
+				4
+			]
+		},
+		"behavior": {
+			"expected_category": "diapers",
+			"expected_attributes": [
+				"organic"
+			],
+			"expected_min_age": 6,
+			"expected_max_age": 6
+		}
+	},
+	{
+		"query": "هدية لصديقة عندها طفل حديث الولادة",
+		"retrieval": {
+			"relevant_product_ids": [
+				1,
+				2,
+				4,
+				7,
+				8,
+				11,
+				12,
+				13,
+				19,
+				24,
+				25,
+				26,
+				30,
+				31,
+				32,
+				33,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				44,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				54,
+				55,
+				57,
+				59
+			]
+		},
+		"behavior": {
+			"expected_min_age": 0,
+			"expected_max_age": 3,
+			"expected_target_customer": "baby"
+		}
+	},
+	{
+		"query": "لعبة آمنة للتسنين للرضع",
+		"retrieval": {
+			"relevant_product_ids": [
+				24
+			]
+		},
+		"behavior": {
+			"expected_category": "toys",
+			"expected_attributes": [
+				"teething"
+			],
+			"expected_target_customer": "baby"
+		}
+	},
+	{
+		"query": "عربة أطفال خفيفة للسفر",
+		"retrieval": {
+			"relevant_product_ids": [
+				41
+			]
+		},
+		"behavior": {
+			"expected_category": "gear",
+			"expected_attributes": [
+				"lightweight",
+				"travel-friendly"
+			]
+		}
+	},
+	{
+		"query": "need something for my baby skin very sensitive keeps getting rash pls help",
+		"retrieval": {
+			"relevant_product_ids": []
+		},
+		"behavior": {
+			"expected_category": "skincare",
+			"expected_attributes": [
+				"sensitive-skin",
+				"rash-treatment"
+			]
+		}
+	},
+	{
+		"query": "my kid 6 months biting everything what should I buy",
+		"retrieval": {
+			"relevant_product_ids": [
+				24
+			]
+		},
+		"behavior": {
+			"expected_category": "toys",
+			"expected_attributes": [
+				"teething"
+			],
+			"expected_min_age": 6,
+			"expected_max_age": 6
+		}
+	},
+	{
+		"query": "stroller under 300 AED lightweight foldable",
+		"retrieval": {
+			"relevant_product_ids": []
+		},
+		"behavior": {
+			"expected_category": "gear",
+			"expected_price_max": 300.0,
+			"expected_attributes": [
+				"lightweight",
+				"foldable"
+			]
+		}
+	}
+]
