@@ -4,6 +4,7 @@ from pathlib import Path
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
 from embeddings import embed_products, get_encoder
@@ -47,6 +48,13 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(lifespan=lifespan)
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 class RagRequest(BaseModel):
     prompt: str = Field(..., description="User query")
@@ -69,6 +77,11 @@ def _load_products() -> list[dict]:
 @app.get("/")
 async def root():
     return {"message": "Hello from Cartostrophe API"}
+
+
+@app.get("/products", response_model=list[dict])
+async def get_products():
+    return _load_products()
 
 
 @app.post("/search", response_model=SelectionResult)
