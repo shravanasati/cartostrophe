@@ -19,6 +19,10 @@ The system follows a modern AI application stack:
 -   **LLM:** Groq (GPT-OSS/Llama 3) for NLU and Selection.
 -   **Embeddings:** Sentence-Transformers (`paraphrase-multilingual-MiniLM-L12-v2`).
 
+Flowchart visualizing the search process:
+
+![Flowchart](./flowchart.png)
+
 ---
 
 ## 🛠️ Setup Instructions
