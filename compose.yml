@@ -15,13 +15,22 @@ services:
     depends_on:
       - qdrant
     environment:
-      - QDRANT_HOST=qdrant
+      - QDRANT_HOST=${QDRANT_HOST:-qdrant}
+      - QDRANT_PORT=${QDRANT_PORT:-6333}
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - HF_HOME=/app/.cache/huggingface
+    ports:
+      - "8000:8000"
+    volumes:
+      - hf_cache:/app/.cache/huggingface
     networks:
       - app-network
 
   frontend:
     build:
       context: ./frontend
+      args:
+        - VITE_API_URL=${VITE_API_URL:-/api}
     ports:
       - "8080:80"
     depends_on:
@@ -35,3 +44,4 @@ networks:
 
 volumes:
   qdrant_storage:
+  hf_cache:
